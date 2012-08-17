@@ -1,0 +1,10 @@
+{
+  "name": "states",
+  "description": "List of states",
+  "version": "0.0.1",
+  "keywords": ["states", "list"],
+  "dependencies": {},
+  "scripts": [
+    "index.js"
+  ]
+}
