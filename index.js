@@ -23,6 +23,7 @@ module.exports = {
   MA: 'Massachusetts',
   MI: 'Michigan',
   MN: 'Minnesota',
+  MS: 'Mississippi',
   MO: 'Missouri',
   MT: 'Montana',
   NE: 'Nebraska',
